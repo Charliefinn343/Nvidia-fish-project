@@ -3,7 +3,7 @@
  Add short description of project here > 
  For my project, I decided to make sure that nobody catches or keeps illegal size fish by helping them identify what type of fish they caught.
 
-![add image descrition here](direct image link here)
+![This is a stripedbass](https://imgur.com/gallery/vRvd0)
 
 ## The Algorithm
 
