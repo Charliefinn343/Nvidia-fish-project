@@ -7,7 +7,7 @@
 
 ## The Algorithm
 
-If you look at the my-recognition.py file you will see the code for the AI. Lines 2-7 import the dependencies. Lines 8-18 are the code for identifying the fish species. Finally, lines 19-101 are responsible for saying four random facts about the fish after it has been identified. 
+If you look at the my-recognition.py file you will see the code for the AI. Lines 2-7 import the dependencies. Lines 8-18 are the code for identifying the fish species. Finally, lines 19-101 are responsible for saying four random facts about the fish after it has been identified. My model is a fine tuned version of the resnet18.
 ## Running this project
 
 1. Make sure to include any required libraries that need to be installed for your project to run.
