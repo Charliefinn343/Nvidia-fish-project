@@ -15,4 +15,4 @@ If you look at the my-recognition.py file you will see the code for the AI. Line
 3. Run "git clone https://github.com/Charliefinn343/Nvidia-fish-project.git" in terminal.
 4. To run an image through, copy this code from the my-recognition folder but replace "Exampleimage.jpg" with one of yours: python3 my-recognition.py Exampleimage.jpg
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/1q4jmsKh6OY)
